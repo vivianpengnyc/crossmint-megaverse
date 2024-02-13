@@ -31,7 +31,7 @@ Before getting started, make sure you have the following installed on your syste
 
 6. You can now run your project using the command: `poetry run <command>`. Replace `<command>` with the command to execute your project.
 
-# Note: Make sure to activate the project's virtual environment before running any Poetry commands. You can do this by running: `poetry shell`.
+Note: Make sure to activate the project's virtual environment before running any Poetry commands. You can do this by running: `poetry shell`.
 
 7. Run the solution I created by using this commend:
    ```bash
