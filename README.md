@@ -1,22 +1,24 @@
 # Crossmint Megaverse Challenge
+![Crossmint](https://mintlify.s3-us-west-1.amazonaws.com/crossmint/logo/crossmint-light.png)
 
 ## My Megaverse Creation Adventure 🚀
-I'm thrilled to share my solution to the Crossmint Megaverse Coding Challenge! With the help of the Megaverse Creator API, I've conjured up a brand new megaverse, complete with 🪐POLYanets, 🌙SOLoons, and ☄comETHs swirling about in cosmic chaos.
+I'm thrilled to share my solution to the Crossmint Megaverse Coding Challenge! With the help of the Megaverse Creator API, I've conjured up a brand new megaverse, complete with 🪐POLYanets, 🌙SOLoons, and ☄comETHs swirling about in cosmic chaos. 
+
+Big shoutout to Crossmint Team for creating these cool NFT APIs! 😄
+[Click here to explore Crossmint Megaverse APIs](https://challenge.crossmint.io/documentation).
 
 ## Prerequisites
-
 Before getting started, make sure you have the following installed on your system:
 
 - Python 3.6 or higher
 - Poetry
 
 ## Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/crossmint-megaverse.git
 
-2. Make sure Poetry is installed on your system. If not, install it by running the command:
+2. Make sure Poetry is installed on your system. If not, run:
    ```bash
    pip install poetry
 
@@ -26,13 +28,17 @@ Before getting started, make sure you have the following installed on your syste
    ```bash
    poetry install
 
-5. You can now run your project using the command: `poetry run <command>`. Replace `<command>` with the command to execute your project.
+5. You can now run your project using the command: `poetry run <command>`. Replace `<command>` with the command to execute this project.
 
    Note: Make sure to activate the project's virtual environment before running any Poetry commands. You can do this by running: `poetry shell`.
 
-6. Run the solution I created by using this commend:
+6. Run the solution I created by using this command:
    ```bash
    poetry run python crossmint_megaverse/MegaverseBuilder.py
+
+7. Run the unit tests I created by running this command:
+   ```bash
+   poetry run coverage run -m pytest
 
 ## Crafting the Megaverse 🎨
 My journey began with the simple task of sculpting a megaverse with specific parameters and shapes. Armed with the Megaverse Creator API, I arranged my celestial objects like pieces of a cosmic puzzle. Each 🪐POLYanet, 🌙SOLoon, and ☄comETH was placed with care, resulting in a cosmos unlike any other.
@@ -44,6 +50,6 @@ In the initial phase of the challenge, I dove headfirst into the Megaverse Creat
 Armed with newfound expertise, I embarked on the creation of my megaverse. With each line of code, I sculpted a vast expanse of cosmic wonder. 🪐POLYanets danced with 🌙SOLoons, while ☄comETHs added a touch of whimsy to the mix. The result? A megaverse that stands as a testament to my creativity and coding prowess.
 
 ## A Journey to Remember 🚀
-My solution to the Crossmint Megaverse Coding Challenge is more than just lines of code—it's a testament to my determination and ingenuity. As I gaze upon the megaverse I've created, I'm reminded of the journey that led me here. And though this challenge may be complete, I know that my coding adventures are far from over.
+My solution to the Crossmint Megaverse Coding Challenge is more than just lines of code—it's a testament to my determination and ingenuity. 
 
 With a sense of pride and accomplishment, I eagerly await the next challenge that comes my way. Until then, my megaverse stands as a shining example of what's possible when creativity and coding collide!
