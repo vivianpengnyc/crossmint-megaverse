@@ -28,7 +28,7 @@ Before getting started, make sure you have the following installed on your syste
    ```bash
    poetry install
 
-5. You can now run your project using the command: `poetry run <command>`. Replace `<command>` with the command to execute this project.
+5. You can now run the project using the command: `poetry run <command>`. Replace `<command>` with the command to execute this project.
 
    Note: Make sure to activate the project's virtual environment before running any Poetry commands. You can do this by running: `poetry shell`.
 
@@ -40,6 +40,10 @@ Before getting started, make sure you have the following installed on your syste
    ```bash
    poetry run coverage run -m pytest
 
+<p align="center">
+  <img src="assets/megaverse_meme.png" alt="meme">
+</p>
+
 ## Crafting the Megaverse 🎨
 My journey began with the simple task of sculpting a megaverse with specific parameters and shapes. Armed with the Megaverse Creator API, I arranged my celestial objects like pieces of a cosmic puzzle. Each 🪐POLYanet, 🌙SOLoon, and ☄comETH was placed with care, resulting in a cosmos unlike any other.
 
@@ -47,9 +51,7 @@ My journey began with the simple task of sculpting a megaverse with specific par
 In the initial phase of the challenge, I dove headfirst into the Megaverse Creator API. Through trial and error (and a healthy dose of determination), I mastered the art of interaction. Creating 🪐POLYanets and validating their existence became second nature, setting the stage for the grand creation to come.
 
 ## Shaping the Cosmic Landscape 🌌
-Armed with newfound expertise, I embarked on the creation of my megaverse. With each line of code, I sculpted a vast expanse of cosmic wonder. 🪐POLYanets danced with 🌙SOLoons, while ☄comETHs added a touch of whimsy to the mix. The result? A megaverse that stands as a testament to my creativity and coding prowess.
+Armed with newfound expertise, I embarked on the creation of my megaverse. With each line of code, I sculpted a vast expanse of cosmic wonder. 🪐POLYanets danced with 🌙SOLoons, while ☄comETHs added a touch of whimsy to the mix.
 
 ## A Journey to Remember 🚀
-My solution to the Crossmint Megaverse Coding Challenge is more than just lines of code—it's a testament to my determination and ingenuity. 
-
-With a sense of pride and accomplishment, I eagerly await the next challenge that comes my way. Until then, my megaverse stands as a shining example of what's possible when creativity and coding collide!
+My solution to the Crossmint Megaverse Coding Challenge is more than just lines of code—it's a testament to my determination and ingenuity. Look forward to the next challenge!!
