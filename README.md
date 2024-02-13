@@ -36,3 +36,4 @@ Before getting started, make sure you have the following installed on your syste
 7. Run the solution I created by using this commend:
    ```bash
    poetry run python crossmint_megaverse/MegaverseBuilder.py
+# crossmint-megaverse
