@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "crossmint-megaverse"
+version = "0.1.0"
+description = ""
+authors = ["“Vivian <“yp2457@columbia.edu”>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+asyncio = "^3.4.3"
+aiohttp = "^3.9.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
