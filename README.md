@@ -1,5 +1,5 @@
 # Crossmint Megaverse Challenge
-![Crossmint](https://mintlify.s3-us-west-1.amazonaws.com/crossmint/logo/crossmint-light.png)
+![Crossmint](assets/crossmint.png)
 
 ## My Megaverse Creation Adventure 🚀
 I'm thrilled to share my solution to the Crossmint Megaverse Coding Challenge! With the help of the Megaverse Creator API, I've conjured up a brand new megaverse, complete with 🪐POLYanets, 🌙SOLoons, and ☄comETHs swirling about in cosmic chaos. 
